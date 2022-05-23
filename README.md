@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-Esta é uma API REST consruída em Node.js para a vaga de Desenvolvedor Back-end Node.js do processo seletivo da empresa Sozei.
+Esta é uma API REST consruída em Node.js para a vaga de Desenvolvedor Back-end Node.js durante o processo seletivo da empresa Sozei.
 
 # Tecnologias utilizadas
 * **Ambiente de execução:** Node.js
