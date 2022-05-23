@@ -7,6 +7,7 @@ Esta é uma API REST consruída em Node.js para a vaga de Desenvolvedor Back-end
 * **Linguagem utilizada:** TypeScript
 * **Framework http:** Express
 * **Estilo e regras de código:** Prettier e ESLint
+* **Banco de dados:** PostgreSQL
 * **ORM:** TypeORM
 * **Autenticação:** JSON Web Token
 
